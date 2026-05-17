@@ -35,13 +35,18 @@
 
 			<form>
 				<label for="name">Name</label>
-				<input type="text" placeholder="Dein Name" required name="name" />
+				<input type="text" placeholder="Dein Name" required name="name" id="name" />
 				<label for="email">E-Mail</label>
-				<input type="email" placeholder="Deine E-Mail" required name="email" />
+				<input type="email" placeholder="Deine E-Mail" required name="email" id="email" />
 				<label for="subject">Betreff</label>
-				<input type="text" placeholder="Betreff" name="subject" />
+				<input type="text" placeholder="Betreff" name="subject" id="subject" />
 				<label for="message">Nachricht</label>
-				<textarea placeholder="Deine Nachricht" required name="message"></textarea>
+				<textarea
+					placeholder="Deine Nachricht"
+					required
+					name="message"
+					id="message"
+				></textarea>
 				<button class="submit-btn" type="submit">Nachricht senden</button>
 			</form>
 		</main>
