@@ -131,3 +131,45 @@ SportPulse positioniert sich als moderne Komplettlösung für die Digitalisierun
 - leistbare Preise für Amateurvereine.
 
 Die Plattform soll Vereinen helfen, organisatorischen Aufwand zu reduzieren und gleichzeitig die professionelle Außendarstellung zu verbessern.
+
+---
+
+# Verwertungsrechte der Medien
+
+## Schriftarten
+
+Roboto fällt laut Google in die Open Font License (OFL). Laut dieser ist diese frei zu benutzen.
+
+"The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. "
+
+## Bilder und Videos
+
+Alle Bilder und Videos stammen von [www.pexels.com](https://www.pexels.com). Laut der Geschäftsbedingungen handelt es sich hierbei um eine CC0-Lizenz („Creative Commons Zero; CC0-Inhalte“). Heißt Medien sind ohne Vermerk für gewerbliche Zwecke benutzbar. "Gemäß den CC0-Lizenzbedingungen können CC0-Inhalte ohne Urheberrechtsvermerk und ohne Nennung der Inhaber der CC0-Inhalte oder von Pexels für alle persönlichen und gewerblichen Zwecke genutzt werden."
+
+---
+
+# Marke
+
+- **Klasse 42 (SaaS / Cloud-Software)** als Hauptklasse
+- **Klasse 9 (Softwareprodukte)** ergänzend
+
+## als Wortmarke
+
+Eine Recherche mittels TMView hat 2 Treffer zu "SportPulse" als Wortmarke gefunden.
+
+- https://tsdr.uspto.gov/#caseNumber=98333374&caseType=SERIAL_NO&searchType=statusSearch (Klasse 20)
+- https://sis.nipo.gov.ua/en/search/advanced/?form-TOTAL_FORMS=1&form-INITIAL_FORMS=1&form-MAX_NUM_FORMS=&form-0-obj_type=4&form-0-obj_state=1&form-0-obj_state=2&form-0-ipc_code=58&form-0-value=m202412813 (Klasse 38)
+
+Jedoch befinden sich beide Marken (20/38) hier außerhalb der anzuwendeten Marken (42/9).
+
+## als Bildmarke
+
+Durch Image-Search auf TMView und EUIPO wurde zwar ähnliche Marken gefunden in einer der zwei gelisteten Nizza-Klassen. Diese haben jedoch entweder nur aufsteigenden Pfeil oder einen Puls. Es wurde keine Kombination aus diesen gefunden.
+
+## als Farbmarke
+
+Die Recherche bezüglich Farbmarken stellten sich schwierig heraus.
+
+![alt Color Palette](https://luizmayer.github.io/DIR_Praxisbeispiel/color_palette.png)
+
+Jedoch konnte keine konkrete Farkombination mit #E3613D, #000000 und #ffffff gefunden werden.

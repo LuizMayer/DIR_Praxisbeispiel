@@ -1,9 +1,122 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Webshop</title>
-</head><body>
-    <h1>Willkommen zum Webshop</h1>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>SportPulse | Sportvereine digital verwalten</title>
+		<link rel="stylesheet" href="style.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<header>
+			<div class="logo"><img src="logo.svg" alt="SportPulse" />SportPulse</div>
+			<nav>
+				<ul
+					style="display: inline-flex; gap: 20px; list-style: none; margin: 0; padding: 0"
+				>
+					<li><a href="#">Home</a></li>
+					<li><a href="about.html">About Us</a></li>
+					<li><a href="contact.html">Kontakt</a></li>
+					<li><a href="impressum.html">Impressum</a></li>
+					<li><button>Demo starten</button></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main>
+			<section class="hero">
+				<div class="hero-content">
+					<h2>Die digitale Plattform für moderne Sportvereine</h2>
+					<p>
+						Organisiere Trainings, Spiele und dein gesamtes Team an einem Ort – einfach,
+						schnell und übersichtlich.
+					</p>
+
+					<button>Kostenlos testen</button>
+				</div>
+			</section>
+
+			<section class="section">
+				<div class="features">
+					<div class="card"><span class="check">✓</span> Trainings- & Spielplanung</div>
+					<div class="card">
+						<span class="check">✓</span> Team- & Mitgliederverwaltung
+					</div>
+					<div class="card"><span class="check">✓</span> Kommunikation in Echtzeit</div>
+					<div class="card"><span class="check">✓</span> Statistiken & Auswertungen</div>
+					<div class="card"><span class="check">✓</span> Ticketing für Heimspiele</div>
+					<div class="card"><span class="check">✓</span> Sponsoren-Management</div>
+				</div>
+			</section>
+
+			<section class="section pricing">
+				<h2 style="text-align: center">Preise</h2>
+				<div class="pricing-grid">
+					<div class="price-card">
+						<h3 class="price-title">Starter</h3>
+
+						<video
+							muted
+							loop
+							onmouseenter="this.play()"
+							onmouseleave="this.pause()"
+							poster="media/images/badminton-preview.png"
+						>
+							<source src="media/videos/badminton-duo.mp4" type="video/mp4" />
+							Dein Browser unterstützt kein Video.
+						</video>
+
+						<div class="price">29€</div>
+						<p>Für kleine Vereine</p>
+						<button>Auswählen</button>
+					</div>
+
+					<div class="price-card">
+						<h3 class="price-title">Club</h3>
+
+						<video
+							muted
+							loop
+							onmouseenter="this.play()"
+							onmouseleave="this.pause()"
+							poster="media/images/volleyball-preview.png"
+						>
+							<source src="media/videos/volleyball-duo.mp4" type="video/mp4" />
+							Dein Browser unterstützt kein Video.
+						</video>
+
+						<div class="price">89€</div>
+						<p>Für wachsende Teams</p>
+						<button>Auswählen</button>
+					</div>
+
+					<div class="price-card">
+						<h3 class="price-title">Pro League</h3>
+
+						<video
+							muted
+							loop
+							onmouseenter="this.play()"
+							onmouseleave="this.pause()"
+							poster="media/images/soccer-preview.png"
+						>
+							<source src="media/videos/soccer-team.mp4" type="video/mp4" />
+							Dein Browser unterstützt kein Video.
+						</video>
+
+						<div class="price">249€</div>
+						<p>Für große Vereine</p>
+						<button>Auswählen</button>
+					</div>
+				</div>
+			</section>
+		</main>
+
+		<footer>© 2026 SportPulse. Alle Rechte vorbehalten.</footer>
+	</body>
 </html>
