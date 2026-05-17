@@ -172,6 +172,7 @@ footer {
 .check {
 	color: var(--primary);
 	font-weight: bold;
+	font-size: 30px;
 }
 
 .pricing {
